@@ -1,0 +1,23 @@
+2024-10-05 13:57:59.662 +07:00 [INF] Message received: DemoSerilog.WeatherForecast
+2024-10-05 13:58:43.416 +07:00 [INF] Message received: DemoSerilog.WeatherForecast
+2024-10-05 13:59:47.706 +07:00 [INF] Message received: DemoSerilog.WeatherForecast
+2024-10-05 13:59:47.750 +07:00 [INF] Message received: DemoSerilog.WeatherForecast
+2024-10-05 13:59:47.751 +07:00 [INF] Message received: DemoSerilog.WeatherForecast
+2024-10-05 13:59:47.751 +07:00 [INF] Message received: DemoSerilog.WeatherForecast
+2024-10-05 13:59:47.751 +07:00 [INF] Message received: DemoSerilog.WeatherForecast
+2024-10-05 14:01:48.512 +07:00 [INF] Message received: DemoSerilog.WeatherForecast
+2024-10-05 14:01:48.575 +07:00 [INF] Message received: DemoSerilog.WeatherForecast
+2024-10-05 14:01:48.576 +07:00 [INF] Message received: DemoSerilog.WeatherForecast
+2024-10-05 14:01:48.576 +07:00 [INF] Message received: DemoSerilog.WeatherForecast
+2024-10-05 14:01:48.576 +07:00 [INF] Message received: DemoSerilog.WeatherForecast
+2024-10-05 14:04:51.374 +07:00 [INF] Message received: DemoSerilog.WeatherForecast
+2024-10-05 14:05:23.595 +07:00 [INF] Message received: DemoSerilog.WeatherForecast
+2024-10-05 14:05:51.635 +07:00 [INF] Message received: DemoSerilog.WeatherForecast
+2024-10-05 14:05:51.639 +07:00 [INF] Message received: DemoSerilog.WeatherForecast
+2024-10-05 14:05:51.641 +07:00 [INF] Message received: DemoSerilog.WeatherForecast
+2024-10-05 14:05:51.641 +07:00 [INF] Message received: DemoSerilog.WeatherForecast
+2024-10-05 14:07:48.203 +07:00 [INF] Log received: "2024-10-06" - 31 - Bracing
+2024-10-05 14:07:48.389 +07:00 [INF] Log received: "2024-10-07" - 11 - Warm
+2024-10-05 14:07:48.390 +07:00 [INF] Log received: "2024-10-08" - -18 - Sweltering
+2024-10-05 14:07:48.390 +07:00 [INF] Log received: "2024-10-09" - 12 - Chilly
+2024-10-05 14:07:48.391 +07:00 [INF] Log received: "2024-10-10" - 37 - Sweltering
